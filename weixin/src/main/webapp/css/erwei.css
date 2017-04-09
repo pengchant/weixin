@@ -1,0 +1,22 @@
+body{
+	width:100%;
+	height:100%;
+	padding:0px;
+	margin:0px;	
+	position:relavite;
+}
+
+.wrapper{ 
+	position:absolute;
+	width:600px;
+	height:600px;
+	text-align:center;
+	top:50%;
+	left:50%;
+	margin-top:-300px;
+	margin-left:-300px;
+}
+
+.downloadEW{
+	color:red;
+}
